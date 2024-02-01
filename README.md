@@ -12,7 +12,7 @@ A simple Node.js server that fetches the latest stories from [time.com](https://
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/time-stories-server.git
+    git clone https://github.com/arjit0501/Deep_Logictech_Assignment
     ```
 
 2. **Install dependencies:**
