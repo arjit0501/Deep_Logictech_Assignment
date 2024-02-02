@@ -47,6 +47,8 @@ A simple Node.js server that fetches the latest stories from [time.com](https://
 ## Contributing
 
 Feel free to contribute to the project. Fork the repository, make your changes, and submit a pull request.
+![TimeStories output ](https://example.com/time-stories-logo.png)
+
 
 ## License
 
